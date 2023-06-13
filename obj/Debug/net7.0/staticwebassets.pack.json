@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\The user\\Documents\\MyTaskProject-from-ElishevaMalka-DasiYakovzon-main\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\The user\\Documents\\MyTaskProject-from-ElishevaMalka-DasiYakovzon-main\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\The user\\Documents\\MyTaskProject-from-ElishevaMalka-DasiYakovzon-main\\wwwroot\\js\\logIn.js",
+      "PackagePath": "staticwebassets\\js\\logIn.js"
+    },
+    {
+      "Id": "C:\\Users\\The user\\Documents\\MyTaskProject-from-ElishevaMalka-DasiYakovzon-main\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\The user\\Documents\\MyTaskProject-from-ElishevaMalka-DasiYakovzon-main\\wwwroot\\obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs"
+    },
+    {
+      "Id": "C:\\Users\\The user\\Documents\\MyTaskProject-from-ElishevaMalka-DasiYakovzon-main\\wwwroot\\obj\\Debug\\net6.0\\Task.AssemblyInfo.cs",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\Task.AssemblyInfo.cs"
+    },
+    {
+      "Id": "C:\\Users\\The user\\Documents\\MyTaskProject-from-ElishevaMalka-DasiYakovzon-main\\wwwroot\\obj\\Debug\\net6.0\\Task.AssemblyInfoInputs.cache",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\Task.AssemblyInfoInputs.cache"
+    },
+    {
+      "Id": "C:\\Users\\The user\\Documents\\MyTaskProject-from-ElishevaMalka-DasiYakovzon-main\\wwwroot\\obj\\Debug\\net6.0\\Task.GeneratedMSBuildEditorConfig.editorconfig",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\Task.GeneratedMSBuildEditorConfig.editorconfig"
+    },
+    {
+      "Id": "C:\\Users\\The user\\Documents\\MyTaskProject-from-ElishevaMalka-DasiYakovzon-main\\wwwroot\\obj\\Debug\\net6.0\\Task.GlobalUsings.g.cs",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\Task.GlobalUsings.g.cs"
+    },
+    {
+      "Id": "C:\\Users\\The user\\Documents\\MyTaskProject-from-ElishevaMalka-DasiYakovzon-main\\wwwroot\\obj\\Debug\\net6.0\\Task.assets.cache",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\Task.assets.cache"
+    },
+    {
+      "Id": "C:\\Users\\The user\\Documents\\MyTaskProject-from-ElishevaMalka-DasiYakovzon-main\\wwwroot\\obj\\Debug\\net6.0\\Task.csproj.AssemblyReference.cache",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\Task.csproj.AssemblyReference.cache"
+    },
+    {
+      "Id": "C:\\Users\\The user\\Documents\\MyTaskProject-from-ElishevaMalka-DasiYakovzon-main\\wwwroot\\obj\\Debug\\net6.0\\project.razor.json",
+      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\project.razor.json"
+    },
+    {
+      "Id": "C:\\Users\\The user\\Documents\\MyTaskProject-from-ElishevaMalka-DasiYakovzon-main\\wwwroot\\obj\\Task.csproj.nuget.dgspec.json",
+      "PackagePath": "staticwebassets\\obj\\Task.csproj.nuget.dgspec.json"
+    },
+    {
+      "Id": "C:\\Users\\The user\\Documents\\MyTaskProject-from-ElishevaMalka-DasiYakovzon-main\\wwwroot\\obj\\Task.csproj.nuget.g.props",
+      "PackagePath": "staticwebassets\\obj\\Task.csproj.nuget.g.props"
+    },
+    {
+      "Id": "C:\\Users\\The user\\Documents\\MyTaskProject-from-ElishevaMalka-DasiYakovzon-main\\wwwroot\\obj\\Task.csproj.nuget.g.targets",
+      "PackagePath": "staticwebassets\\obj\\Task.csproj.nuget.g.targets"
+    },
+    {
+      "Id": "C:\\Users\\The user\\Documents\\MyTaskProject-from-ElishevaMalka-DasiYakovzon-main\\wwwroot\\obj\\project.assets.json",
+      "PackagePath": "staticwebassets\\obj\\project.assets.json"
+    },
+    {
+      "Id": "C:\\Users\\The user\\Documents\\MyTaskProject-from-ElishevaMalka-DasiYakovzon-main\\wwwroot\\obj\\project.nuget.cache",
+      "PackagePath": "staticwebassets\\obj\\project.nuget.cache"
+    },
+    {
+      "Id": "C:\\Users\\The user\\Documents\\MyTaskProject-from-ElishevaMalka-DasiYakovzon-main\\wwwroot\\task.html",
+      "PackagePath": "staticwebassets\\task.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Task.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Task.props",
+      "PackagePath": "build\\Task.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Task.props",
+      "PackagePath": "buildMultiTargeting\\Task.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Task.props",
+      "PackagePath": "buildTransitive\\Task.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
